@@ -1,5 +1,5 @@
-# qaria
-Project of the Object Programming course of the University of Padua
+# **qaria**
+**Project of the Object Programming course of the University of Padua**
 
 ## Model Description
 
