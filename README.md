@@ -37,7 +37,8 @@ It was decided to develop a linked list structure to be used as a hierarchy cont
 The features implemented are, for simplicity, divided into two macro-categories: structural, that is, those that make up the heart of the program, and aesthetic, those that allow easy use.
 
 #### Structural Capabilities
-- Create, open, save and overwrite a CSV file. • Search by type and danger of the event.
+- Create, open, save and overwrite a CSV file.
+- Search by type and danger of the event.
 - Addition of atmospheric events.
 - Deletion of individual events.
 - Filters for results
