@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>AEHail.svg</file>
+        <file>AERain.svg</file>
+        <file>AESnow.svg</file>
+        <file>editData.svg</file>
+        <file>fileNew.svg</file>
+        <file>fileOpen.svg</file>
+        <file>fileSave.svg</file>
+        <file>fileSaveAs.svg</file>
+        <file>icon.png</file>
+        <file>macos_icon.icns</file>
+        <file>viewData.svg</file>
+    </qresource>
+</RCC>
